@@ -1,0 +1,1 @@
+typeof jQuery!="undefined"&&$(document).ready(function(n){n("#hiddenFieldDocumentReady").length&&n("#hiddenFieldDocumentReady").val("ready")})
